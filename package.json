@@ -12,7 +12,7 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
-    "@mapbox/tilelive-bridge": "3.1.1",
+    "@mapbox/tilelive-bridge": "git+https://github.com/mdholloway/tilelive-bridge",
     "js-yaml": "^3.2.5",
     "carto": "1.2.0",
     "underscore": "^1.7.0",
